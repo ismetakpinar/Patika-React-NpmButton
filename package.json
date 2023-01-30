@@ -1,0 +1,22 @@
+{
+  "name": "akpinar",
+  "version": "0.0.1",
+  "description": "patika react homework",
+  "main": "button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismetakpinar/Patika-React-NpmButton.git"
+  },
+  "keywords": [
+    "patika"
+  ],
+  "author": "İsmet Akpınar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismetakpinar/Patika-React-NpmButton/issues"
+  },
+  "homepage": "https://github.com/ismetakpinar/Patika-React-NpmButton#readme"
+}
